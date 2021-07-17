@@ -56,14 +56,14 @@ input {
 }
 
 .txt1 {
-  margin-top: 25px;
+  margin-top: 30px;
   margin: 0px 0px 0px 85px;
   border-color: rgb(216, 108, 108);
   color: rgb(105, 104, 104);
   border-radius: 5px;
   padding: 10px 20px;
   box-shadow: -5px 5px 5px rgba(109, 108, 108, 0.5);
-  margin: 0px 0px 0px 7px;
+  margin: 28px 0px 0px 7px;
   outline: none;
 }
 .txt2 {
